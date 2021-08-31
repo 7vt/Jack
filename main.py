@@ -66,4 +66,4 @@ async def credits(ctx):
     await ctx.send('Made by Uzi')
 
 
-bot.run('TOKENHERE')
+bot.run(token)
